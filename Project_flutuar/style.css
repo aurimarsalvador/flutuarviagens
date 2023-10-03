@@ -1,0 +1,64 @@
+body{
+  text-align: center;
+  margin: 0px auto 0px;
+}
+
+#main{
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+#line{
+  width: 391px;
+  height: 1px;
+  background-color: #ECEFF2;
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+  font-weight: 500;
+  line-height: normal;
+}
+
+h1{
+  color: #3F3D56;
+  font-weight: normal;
+}
+
+h1 span{
+  color: #EE24FF;
+  font-weight: bold;
+}
+
+p,#footer{
+  font-family: 'Open Sans', sans-serif;
+}
+
+#flutuar{
+  color: #828282;
+}
+
+p{
+
+  color: #828282;
+}
+
+p strong{
+  color: #3F3D56;
+}
+
+#line{
+  margin: 0px auto 16px;
+}
+
+#footer{
+  margin: 16px auto 40.83px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 22.152px;
+}
+
+#ofertas{
+  margin-left: 42px;
+  margin-right: 42px;
+}
